@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { NavLink, useParams } from 'react-router-dom'
 import { FaStar } from "react-icons/fa";
 import { FaCalendarCheck } from "react-icons/fa6";
+import '../App.css'
 
 function ProductId({setNavData,navData}) {
     const [qoshil,setQoshil]=useState(true)

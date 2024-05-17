@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { TiTrash } from "react-icons/ti";
-import '../App.css'
+import './Page.css'
 
 function Cart({ navData, setNavData }) {
     const [navId, setNavid] = useState()

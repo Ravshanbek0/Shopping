@@ -1,6 +1,6 @@
 import React from 'react'
 import Products from './Products'
-import '../App.css'
+import "./Components.css"
 
 function Header({setDatas, datas, datas1}) {
     return (

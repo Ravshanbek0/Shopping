@@ -3,7 +3,7 @@ import { IoIosLogIn } from "react-icons/io";
 import { FaUserPlus } from "react-icons/fa";
 import { FaCartShopping } from "react-icons/fa6";
 import { NavLink } from 'react-router-dom';
-import './App.css'
+import "./Components.css"
 
 function Navbar({navData}) {
     return (

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { NavLink } from 'react-router-dom';
-import '../App.css'
+import "./Components.css"
 
 function Products({ setDatas, datas, datas1 }) {
     function removeFun(category) {
